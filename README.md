@@ -1,16 +1,19 @@
-## Hi there 👋
+### Fullstack developer: Python/Django and React/Next.js
 
-<!--
-**TimeOfAnarchy/TimeOfAnarchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spent three years in a small team doing a bit of everything: mockups, APIs, UIs and deployment. In my spare time I'm building my own content publishing platform with recommendations and automated moderation.
 
-Here are some ideas to get you started:
+**Open source**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [turnesta](https://github.com/TimeOfAnarchy/turnesta): queue management and online booking platform. Rust (Axum, SQLx), PostgreSQL, React, TypeScript, SSE.
+- [vision-bench](https://github.com/TimeOfAnarchy/vision-bench): reproducible local benchmark for image tagging models and VLMs. Python, ONNX Runtime, CUDA, DirectML.
+
+**Services I built at work**
+
+- [QR codes](https://qrtools.adgex.com/): FastAPI, React, Vike, Telegram bot
+- [WebP converter](https://img2webp.adgex.com/): runs entirely in the browser, 10 languages
+- [Watermarks](https://markly.adgex.com/): runs entirely in the browser
+- [Speech recognition](https://vox.adgex.com/): Flask, GigaAM via ONNX Runtime, Telegram bot
+
+**Stack**
+
+Python, Django, DRF, FastAPI, PostgreSQL, pgvector, Redis, Celery, Kafka, ClickHouse, Docker, Nginx, pytest · JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vitest, Playwright · Rust, C#, ASP.NET MVC
