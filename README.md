@@ -18,4 +18,5 @@ I spent three years in a small team doing a bit of everything: mockups, APIs, UI
 
 Python, Django, DRF, FastAPI, PostgreSQL, pgvector, Redis, Celery, Kafka, ClickHouse, Docker, Nginx, pytest · JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vitest, Playwright · Rust, C#, ASP.NET MVC
 
-[![TimeOfAnarchy nickname certificate](https://mynickname.com/img.php?id=1848396&sert=1)](https://mynickname.com/id1848396)
+
+[![MyNickname](https://img.shields.io/badge/MyNickname-TimeOfAnarchy-5865F2?style=flat-square)](https://mynickname.com/id1848396)
