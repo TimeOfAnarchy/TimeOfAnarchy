@@ -1,6 +1,10 @@
 ### Fullstack developer: Python/Django and React/Next.js
 
-I spent three years in a small team doing a bit of everything: mockups, APIs, UIs and deployment. In my spare time I'm building my own content publishing platform with recommendations and automated moderation.
+I spent three years in a small team doing a bit of everything: mockups, APIs, UIs and deployment. Now I'm building my own content publishing platform with recommendations and automated moderation.
+
+**Main project**
+
+- [ugc-media-platform](https://github.com/TimeOfAnarchy/ugc-media-platform): UGC platform for images, video and posts with an ML moderation pipeline and a personalized feed. Django, Celery, Kafka, ClickHouse, pgvector, Next.js. The code is private; the showcase explains how it works, with a demo video and screenshots.
 
 **Open source**
 
